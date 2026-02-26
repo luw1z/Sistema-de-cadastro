@@ -39,4 +39,5 @@ usuario1 = {
     "senha": senha, 
 }
 print (f"informacoes do usuario: {usuario1}")
-bosta merda
+
+teste do codigo
